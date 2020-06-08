@@ -1,6 +1,6 @@
 title 'Tests to confirm bash works as expected'
 
-plan_name = input('plan_name', value: 'binutils')
+plan_name = input('plan_name', value: 'bash')
 plan_ident = "#{ENV['HAB_ORIGIN']}/#{plan_name}"
 hab_path = input('hab_path', value: 'hab')
 
