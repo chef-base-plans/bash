@@ -19,6 +19,8 @@ _patch_files=(
   "${_patch_url_base}-014"
   "${_patch_url_base}-015"
   "${_patch_url_base}-016"
+  "${_patch_url_base}-017"
+  "${_patch_url_base}-018"
 )
 
 # All official patch file shasums
@@ -39,4 +41,6 @@ _patch_shasums=(
   5d6eee6514ee6e22a87bba8d22be0a8621a0ae119246f1c5a9a35db1f72af589
   a517df2dda93b26d5cbf00effefea93e3a4ccd6652f152f4109170544ebfa05e
   ffd1d7a54a99fa7f5b1825e4f7e95d8c8876bc2ca151f150e751d429c650b06d
+  4cf3b9fafb8a66d411dd5fc9120032533a4012df1dc6ee024c7833373e2ddc31
+  7c314e375a105a6642e8ed44f3808b9def89d15f7492fe2029a21ba9c0de81d3 
 )
